@@ -39,7 +39,7 @@ jobs:
       with:
         files: |
           OneUISounds/OneUISounds_Magisk.zip
-        name: One UI 6.1 Sounds ${{ env.BUILD_DATE }}
+        name: One UI 7.0 Sounds ${{ env.BUILD_DATE }}
         tag_name: ${{ github.run_id }}
         body: |
           Changelog:
