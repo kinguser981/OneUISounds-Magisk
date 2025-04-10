@@ -1,7 +1,7 @@
 # One UI 7.0 Sounds 2025
 
-One UI 6.1 High quality system sounds (notifications, Spen, rigtones and UI sounds) 
-files taken from the Galaxy S22 Ultra SM-S908B stock ROM (S908BXXSAEXE3) based on One UI 6.1
+One UI 7.0 High quality system sounds (notifications, Spen, rigtones and UI sounds) 
+files taken from the Galaxy S25 Ultra SM-S938N stock ROM (S908BXXXXXXX) based on One UI 7.0
 Some UI sounds may not be replaced if your ROM has different filenames.
 Fully compatible with Samsung Galaxy devices with stock ROM.
 
