@@ -43,8 +43,8 @@ jobs:
         tag_name: ${{ github.run_id }}
         body: |
           Changelog:
-                    v6.1
-                    Added new One UI Sounds
+                    v7.0
+                    Added new One UI 7 Sounds
                     Added old One UI Sounds
                     Added Spen UI sound
                     Added SoundTheme
